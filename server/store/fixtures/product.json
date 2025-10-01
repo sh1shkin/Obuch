@@ -1,0 +1,50 @@
+[
+  {
+    "model": "store.product",
+    "pk": 1,
+    "fields": {
+      "name": "Худи черного цвета с монограммами adidas Originals",
+      "description": "Мягкая ткань для свитшотов. Стиль и комфорт – это образ жизни.",
+      "price": "6090.00",
+      "quantity": 14,
+      "image": "products_images/hudi1_mPH6P9O.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 2,
+    "fields": {
+      "name": "Синяя куртка The North Face",
+      "description": "Гладкая ткань. Водонепроницаемое покрытие. Легкий и теплый пуховый наполнитель.",
+      "price": "23000.00",
+      "quantity": 1,
+      "image": "products_images/kurtka1.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 3,
+    "fields": {
+      "name": "Коричневый спортивный oversized-топ ASOS DESIGN",
+      "description": "Материал с плюшевой текстурой. Удобный и мягкий.",
+      "price": "3390.00",
+      "quantity": 12,
+      "image": "products_images/top1.jpeg",
+      "category": 1
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 4,
+    "fields": {
+      "name": "Черный рюкзак Nike Heritage",
+      "description": "Плотная ткань. Легкий материал.",
+      "price": "2340.00",
+      "quantity": 6,
+      "image": "products_images/ruksak1.jpg",
+      "category": 3
+    }
+  }
+]
